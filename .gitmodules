@@ -1,0 +1,21 @@
+[submodule "Ch8UnitTestingYourCode"]
+	path = Ch8UnitTestingYourCode
+	url = git@github.com:c4arl0s/Ch8UnitTestingYourCode.git
+[submodule "Ch15InheretanceAndPolymorphism"]
+	path = Ch15InheretanceAndPolymorphism
+	url = git@github.com:c4arl0s/Ch15InheretanceAndPolymorphism.git
+[submodule "Ch16Initializers"]
+	path = Ch16Initializers
+	url = git@github.com:c4arl0s/Ch16Initializers.git
+[submodule "17AccessControl"]
+	path = 17AccessControl
+	url = git@github.com:c4arl0s/17AccessControl.git
+[submodule "19ObjectLifetimeMemoryManagement"]
+	path = 19ObjectLifetimeMemoryManagement
+	url = git@github.com:c4arl0s/19ObjectLifetimeMemoryManagement.git
+[submodule "22GenericsInTheRealWorld"]
+	path = 22GenericsInTheRealWorld
+	url = git@github.com:c4arl0s/22GenericsInTheRealWorld.git
+[submodule "23UnderstandingClosures"]
+	path = 23UnderstandingClosures
+	url = git@github.com:c4arl0s/23UnderstandingClosures.git
